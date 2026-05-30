@@ -50,7 +50,7 @@ npm install
 # Step 3:
 Start the local development server
 npm start
-# (Note: Use "npm run dev" if your project template uses Vite instead of Create React App)
+(Note: Use "npm run dev" if your project template uses Vite instead of Create React App)
 
 # Step 4:
 Open your web browser and view the application at: http://localhost:3000  (or http://localhost:5173 for Vite)
