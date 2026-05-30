@@ -39,18 +39,19 @@ State updates in React are asynchronous and must never be mutated directly. The 
 
 ---
 
-# Step 1: Open your terminal and navigate to your project directory
+# Step 1:
+Open your terminal and navigate to your project directory
 cd path/to/your/project-folder
 
-# Step 2: Install all required project dependencies
+# Step 2:
+Install all required project dependencies
 npm install
 
-# Step 3: Start the local development server
+# Step 3:
+Start the local development server
 npm start
 # (Note: Use "npm run dev" if your project template uses Vite instead of Create React App)
 
-# Step 4: Open your web browser and view the application at:
-# http://localhost:3000  (or http://localhost:5173 for Vite)
-const App = () => <Counter />
+# Step 4:
+Open your web browser and view the application at: http://localhost:3000  (or http://localhost:5173 for Vite)
 
-export default App
